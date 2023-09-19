@@ -2,6 +2,8 @@
 
 The **Password Generator App** is a simple desktop application built using the Python tkinter library. It allows users to generate random passwords with customizable settings such as length and character types. This README file provides an overview of the project, its features, and instructions for running it on your computer.
 
+![Screenshot 2023-09-19 172735](https://github.com/Mohadeseh76/To-Do_List/assets/141071219/be39e626-26e5-44d1-8aa8-080adaf47f8f)
+
 ## Table of Contents
 
 - [Features](#features)
