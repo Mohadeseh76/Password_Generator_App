@@ -10,7 +10,6 @@ The **Password Generator App** is a simple desktop application built using the P
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -67,9 +66,6 @@ To run the Password Generator App, you need the following:
    - Click the "Copy Password" button to copy the generated password to your clipboard.
    - You can now paste the password into any application or website that requires a password.
 
-## Screenshots
-
-![Password Generator App](screenshot.png)
 
 ## Contributing
 
